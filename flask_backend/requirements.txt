@@ -1,0 +1,14 @@
+Flask
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-SocketIO
+Flask-CORS
+argon2-cffi
+Authlib
+stripe
+requests
+python-dotenv
+boto3
+marshmallow
+psycopg2-binary
